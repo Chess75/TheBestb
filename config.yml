@@ -198,6 +198,6 @@ messages:
 #   - Username2
 
 books:
-  DefaultBook: "./engines/book2.bin"
+  DefaultBook: "./engines/Book2.bin"
   BackupBook: "./engines/Book3.bin"
   Third: "./engines/book.bin"
